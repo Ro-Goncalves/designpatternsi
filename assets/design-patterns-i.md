@@ -335,7 +335,7 @@ public class SemDesconto extends Desconto{
 
 Os códigos duplicados foram-se embora. Lindo de mais.
 
->Esse padrão me respondeu a uma pergunta que sempre fiz: *Mas eu tenho que ficar duplicando esse pedaço de código, mesmo que seja um if pequeno? *
+>Esse padrão me respondeu a uma pergunta que sempre fiz: *Mas eu tenho que ficar duplicando esse pedaço de código, mesmo que seja um if pequeno?*
 
 ## State
 
