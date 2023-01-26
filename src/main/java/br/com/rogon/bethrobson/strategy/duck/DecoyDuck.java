@@ -1,4 +1,7 @@
-package br.com.rogon.bethrobson.strategy;
+package br.com.rogon.bethrobson.strategy.duck;
+
+import br.com.rogon.bethrobson.strategy.fly.FlyNoWay;
+import br.com.rogon.bethrobson.strategy.quack.MuteQuack;
 
 public class DecoyDuck extends Duck{
     public DecoyDuck(){

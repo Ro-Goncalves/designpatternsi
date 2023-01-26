@@ -1,4 +1,4 @@
-package br.com.rogon.bethrobson.strategy;
+package br.com.rogon.bethrobson.strategy.fly;
 
 public class FlyNoWay implements FlyBehavior{
 

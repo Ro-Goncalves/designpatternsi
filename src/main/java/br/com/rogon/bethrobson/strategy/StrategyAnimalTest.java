@@ -1,4 +1,4 @@
-package br.com.rogon.bethrobson;
+package br.com.rogon.bethrobson.strategy;
 
 import java.util.ArrayList;
 

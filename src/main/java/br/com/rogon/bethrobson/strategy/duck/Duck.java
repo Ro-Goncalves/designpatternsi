@@ -1,4 +1,7 @@
-package br.com.rogon.bethrobson.strategy;
+package br.com.rogon.bethrobson.strategy.duck;
+
+import br.com.rogon.bethrobson.strategy.fly.FlyBehavior;
+import br.com.rogon.bethrobson.strategy.quack.QuackBehavior;
 
 public abstract class Duck {
     FlyBehavior flyBehavior;
