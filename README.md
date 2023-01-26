@@ -1,4 +1,4 @@
-# Design Patterns em Java I: Boas Práticas de Programação
+# Design Patterns em Java I: Boas Práticas de Programação <!-- omit in toc -->
 
 Devo dizer que é uma merca estudar esses padrões, na verdade é uma merda estudar qualquer coisa, explico.
 
@@ -9,6 +9,14 @@ Você fica achando que dá para aplicar o que aprendeu em tudo, todos os seus pr
 A consequência imediata e a vontade de querer escrever um código melhor, de querer se aprimorar a mostrar que estamos nos tronando um profissional melhor.
 
 É aqui que entramos na separação do joio do trigo, de um lado programadores, do outro amadores. Peça Graça a Deus, que ele observe cada momento de seus estudos, Ele pode iluminar nosso intelecto e fazer com que esse conhecimento entre em nossa cabeça dura.
+
+- [Strategy](#strategy)
+- [Chain of Responsability](#chain-of-responsability)
+- [Template Method](#template-method)
+- [State](#state)
+- [Command](#command)
+- [Observer](#observer)
+- [Referências](#referências)
 
 ## Strategy
 
