@@ -1,4 +1,4 @@
-package br.com.rogon.bethrobson.templatemetho.barista;
+package br.com.rogon.bethrobson.templatemethod.barista;
 
 public class Coffee extends CaffeineBeverage{
 
